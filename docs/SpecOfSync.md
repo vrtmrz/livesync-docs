@@ -1,0 +1,2 @@
+# Specification of the synchronisation
+
